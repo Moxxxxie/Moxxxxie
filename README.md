@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Moxxxxie
 - 👀 I’m interested in Astronomy and chemistry
 - 🌱 I’m currently learning about computational chemistry
-- 💞️ I’m looking to collaborate on any astrochemical projects
+- 💞️ I’m looking to collaborate on any astrochemical, computational chemistry and Molecular dynamics projects
 - 📫 Lumenpiee@gmail.com / A.Ahmadali@ut.ac.ir
 
 <!---
